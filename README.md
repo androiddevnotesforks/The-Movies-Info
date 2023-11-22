@@ -32,12 +32,12 @@ Contributions are welcome! Whether you're fixing a bug, implementing a new featu
 Special thanks to the open-source community for their valuable contributions and support.
 
 ## Images From The App
-![feature](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9b987e15-f158-417a-a29c-368413a5a8b8)
+![feature](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/0d999602-536c-4eef-81b1-1e27fa777112)
+![s1](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/b5b324a6-afb6-4ada-ad07-bce3c3d79ad9)
+![s2](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/6ada131c-1cb6-4b6a-bc94-ee3b3e5b7ba7)
+![s3](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/c6320e5d-7efb-4faa-a920-f9ef0d5df33e)
+![s4](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/49432da6-8a1d-4559-bd26-cc4316db4f6c)
+![s5](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/0642c63a-1a0c-4c5a-a9c8-8a83752794ed)
+![s6](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/3fbc56c3-eeaa-4e7b-bc67-f02b019313fe)
 
-![s1](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/a388a322-ac20-4e7e-ab9e-8b08f14c0d80)
-![s2](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9ea432d3-9be5-4564-86c1-ead703d7469a)
-![s3](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/192cf490-583a-46a7-84a9-e2c7b135cfd8)
-![s4](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/5c34385c-8114-420b-9b8a-65b04d1d3c50)
-![s5](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/9998f176-d02c-4f20-852c-cbe51d5813d0)
-![s6](https://github.com/ahmed-guedmioui/The-Movies-Info/assets/138891005/b507aa4d-5807-4a41-9c12-470b1969bbe4)
 
