@@ -1,13 +1,13 @@
 package com.ahmedapps.themovies.di
 
-import com.ahmedapps.themovies.feature_movie_details.data.repository.DetailsRepositoryImpl
-import com.ahmedapps.themovies.feature_movie_details.data.repository.ExtraDetailsRepositoryImpl
-import com.ahmedapps.themovies.feature_movie_details.domain.repository.DetailsRepository
-import com.ahmedapps.themovies.feature_movie_details.domain.repository.ExtraDetailsRepository
-import com.ahmedapps.themovies.feature_movie_list.data.repository.GenreRepositoryImpl
-import com.ahmedapps.themovies.feature_movie_list.data.repository.MediaRepositoryImpl
-import com.ahmedapps.themovies.feature_movie_list.domain.repository.GenreRepository
-import com.ahmedapps.themovies.feature_movie_list.domain.repository.MediaRepository
+import com.ahmedapps.themovies.media_details.data.repository.DetailsRepositoryImpl
+import com.ahmedapps.themovies.media_details.data.repository.ExtraDetailsRepositoryImpl
+import com.ahmedapps.themovies.media_details.domain.repository.DetailsRepository
+import com.ahmedapps.themovies.media_details.domain.repository.ExtraDetailsRepository
+import com.ahmedapps.themovies.main.data.repository.GenreRepositoryImpl
+import com.ahmedapps.themovies.main.data.repository.MediaRepositoryImpl
+import com.ahmedapps.themovies.main.domain.repository.GenreRepository
+import com.ahmedapps.themovies.main.domain.repository.MediaRepository
 import dagger.Binds
 import dagger.Module
 import dagger.hilt.InstallIn
@@ -29,7 +29,6 @@ abstract class RepositoryModule {
     abstract fun bindGenreRepository(
         genreRepositoryImpl: GenreRepositoryImpl
     ): GenreRepository
-
 
     @Binds
     @Singleton

@@ -20,7 +20,6 @@ object Constants {
     const val homeScreen = "searchScreen"
 
     const val unavailable = "Unavailable"
-    const val MEDIA_KEY = "-media"
 
 
 

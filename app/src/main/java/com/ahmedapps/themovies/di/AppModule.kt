@@ -2,12 +2,12 @@ package com.ahmedapps.themovies.di
 
 import android.app.Application
 import androidx.room.Room
-import com.ahmedapps.themovies.feature_movie_details.data.remote.api.ExtraDetailsApi
-import com.ahmedapps.themovies.feature_movie_list.data.local.genres.GenresDatabase
-import com.ahmedapps.themovies.feature_movie_list.data.local.media.MediaDatabase
-import com.ahmedapps.themovies.feature_movie_list.data.remote.api.GenresApi
-import com.ahmedapps.themovies.feature_movie_list.data.remote.api.MediaApi
-import com.ahmedapps.themovies.feature_movie_list.data.remote.api.MediaApi.Companion.BASE_URL
+import com.ahmedapps.themovies.media_details.data.remote.api.ExtraDetailsApi
+import com.ahmedapps.themovies.main.data.local.genres.GenresDatabase
+import com.ahmedapps.themovies.main.data.local.media.MediaDatabase
+import com.ahmedapps.themovies.main.data.remote.api.GenresApi
+import com.ahmedapps.themovies.main.data.remote.api.MediaApi
+import com.ahmedapps.themovies.main.data.remote.api.MediaApi.Companion.BASE_URL
 import dagger.Module
 import dagger.Provides
 import dagger.hilt.InstallIn
